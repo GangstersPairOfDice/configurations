@@ -19,7 +19,7 @@ alias ls='ls -G'
 
 export CLICOLOR=1
 # Change to your name, do not delete backslashes
-export PS1="ƒ(π)\[\e[m\]\[\e[31m\]:\[\e[m\] \[\e[32m\]\w\[\e[m\] \[\e[34m\]»\[\e[m\] "
+export PS1="\[\e[2m\]\d \t \[\e[0m\]ƒ(π): \[\e[92m\]\W \[\e[0m\]\e[34m\]»\[\e[m\] "
 
 export LSCOLORS=cxgxfxexbxegedabagacad
 
